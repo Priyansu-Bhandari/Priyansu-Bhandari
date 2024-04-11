@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python(Machine Learning and Computer Vision), Java, Web Development**
 
-- 📫 How to reach me **@Linkedin and bhandaripariyanshupb@gmail.com**
+- 📫 How to reach me **@Linkedin and ipb26@icloud.com**
 
 - 📄 Know about my experiences [resume link](resume link)
 
